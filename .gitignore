@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+*.ai
+*.log
+*.pdf
+*.psd
+*.indd
+*.sublime*
+_toClean/
+_img/
+OTF/
+specimen/
+Thumbs.db
